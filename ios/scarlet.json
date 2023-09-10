@@ -1,0 +1,18 @@
+{
+  "META": {
+    "repoName": "ribbon.",
+    "repoIcon": "https://github.com/kgrlabs/ribbon/img/icon.png"
+  }
+  "Emulators": [
+    {
+      "name": "RetroArch",
+      "version": "1.16.0",
+      "icon": "https://github.com/kgrlabs/ribbon/icons/retroarch.png",
+      "down": "https://github.com/kgrlabs/ribbon/ios/dl/RetroArch.ipa",
+      "category": "Emulators",
+      "description": "RetroArch is a frontend for LibRetro, a collection of emulators combined.",
+      "bundleID": "com.retroarch.RetroArch",
+      "enableBackup": true
+    },
+  ],
+}
