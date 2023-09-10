@@ -1,2 +1,2 @@
-# ribbon
-The ultimate repository for Scarlet, AltStore, and more.
+# ribbon.
+Introducing the ultimate repository for alternate app stores like AltStore, Scarlet, and more.
